@@ -1,4 +1,7 @@
 # FlexGallery
-FlexGallery from VanillaJS series
+FlexGallery from VanillaJS series. Created to understand flexbox.
 ## Technologies: 
-Vanilla JS / CSS
+Vanilla JS
+CSS
+### Demo: 
+https://kwasnymat.github.io/FlexGallery/
